@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Solo Brande
 
 <!--
 **solo-beep569/solo-beep569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
